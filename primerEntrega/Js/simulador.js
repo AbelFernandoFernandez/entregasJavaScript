@@ -16,6 +16,6 @@ if (imc < 18.5) {
 } else {
   clasificacion = 'tienes sobrepeso';
 }
-let respuesta = 'Hola, tu IMC es ' + imc + ' y tu ' + clasificacion;
+let respuesta =  `Hola, tu IMC es ${imc}  y tu  ${clasificacion}`;
 alert (respuesta)
 
