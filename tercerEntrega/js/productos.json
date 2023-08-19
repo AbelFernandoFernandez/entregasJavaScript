@@ -1,0 +1,182 @@
+[
+    {
+        "id": "elefanteBlanco",
+        "titulo": "Elefante Blanco",
+        "imagen": "./Images/Budismo/ele.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "elefanteBlanco",
+        "titulo": "Elefante Blanco",
+        "imagen": "./Images/Budismo/ele.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "elefanteBlanco",
+        "titulo": "Elefante Blanco",
+        "imagen": "./Images/Budismo/ele.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "elefanteBlanco",
+        "titulo": "Elefante Blanco",
+        "imagen": "./Images/Budismo/ele.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "elefanteBlanco",
+        "titulo": "Elefante Blanco",
+        "imagen": "./Images/Budismo/ele.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "Aromas",
+        "titulo": "Aromas",
+        "imagen": "./Images/sahumerio/aromas.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 800
+    },
+    {
+        "id": "Aromas",
+        "titulo": "Aromas",
+        "imagen": "./Images/sahumerio/aromas.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 800
+    },
+    {
+        "id": "Aromas",
+        "titulo": "Aromas",
+        "imagen": "./Images/sahumerio/aromas.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 800
+    },
+    {
+        "id": "Aromas",
+        "titulo": "Aromas",
+        "imagen": "./Images/sahumerio/aromas.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 800
+    },
+    {
+        "id": "Aromas",
+        "titulo": "Aromas",
+        "imagen": "./Images/sahumerio/aromas.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 800
+    }
+]
