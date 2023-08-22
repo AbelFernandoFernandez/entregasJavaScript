@@ -1,11 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --clr-main: #2d4969;
-    /* --clr-main-light: #785ce9; */
+    --clr-main: #723121;
     --clr-white: #ececec;
-    /* --clr-gray: #e2e2e2; */
-    /* --clr-red: #961818; */
 }
 
 * {
@@ -115,8 +112,7 @@ aside {
 .numerito {
     background-color: var(--clr-white);
     color: var(--clr-main);
-    padding: .15rem .25rem;
-    /* border-radius: .25rem; */
+    padding: .15rem .25rem;    
 }
 
 .boton-carrito.active .numerito {
@@ -133,7 +129,6 @@ main {
     background-color: var(--clr-white);
     margin: 1rem;
     margin-left: 0;
-    /* border-radius: 2rem; */
     padding: 3rem;
 }
 
