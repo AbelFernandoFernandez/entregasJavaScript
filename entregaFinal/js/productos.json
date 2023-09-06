@@ -1,0 +1,182 @@
+[
+    {
+        "id": "elefanteBlanco",
+        "titulo": "Elefante Blanco",
+        "imagen": "./Images/Budismo/elefante.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "buda",
+        "titulo": "Buda",
+        "imagen": "./Images/Budismo/buda.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "budaArcillaOscura",
+        "titulo": "Buda Arcilla Oscora",
+        "imagen": "./Images/Budismo/budaArcillaOscura.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 5900
+    },
+    {
+        "id": "budaSentado",
+        "titulo": "Buda Sentado",
+        "imagen": "./Images/Budismo/budaSentado.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 5200
+    },
+    {
+        "id": "budaabunda",
+        "titulo": "Buda Abundancia",
+        "imagen": "./Images/Budismo/budaabunda.jpg",
+        "categoria": {
+            "nombre": "Budismo",
+            "id": "budismo"
+        },
+        "precio": 4200
+    },
+    {
+        "id": "Cartuchera",
+        "titulo": "Cartuchera",
+        "imagen": "./Images/Norteño/cartuchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 600
+    },
+    {
+        "id": "launchera",
+        "titulo": "Launchera",
+        "imagen": "./Images/Norteño/launchera.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "manta",
+        "titulo": "Manta",
+        "imagen": "./Images/Norteño/manta.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "mochila",
+        "titulo": "Mochila",
+        "imagen": "./Images/Norteño/mochila.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 2600
+    },
+    {
+        "id": "medias",
+        "titulo": "Medias",
+        "imagen": "./Images/Norteño/medias.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 1700
+    },
+    {
+        "id": "tasa",
+        "titulo": "Tasa",
+        "imagen": "./Images/Norteño/tasas.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "vasija",
+        "titulo": "Vasija",
+        "imagen": "./Images/Norteño/vasija1.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "vasija",
+        "titulo": "Vasija",
+        "imagen": "./Images/Norteño/vasija4.jpg",
+        "categoria": {
+            "nombre": "Norteño",
+            "id": "norteño"
+        },
+        "precio": 2450
+    },
+    {
+        "id": "Aromas",
+        "titulo": "Aromas",
+        "imagen": "./Images/sahumerio/aromas.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 800
+    },
+    {
+        "id": "aromas2",
+        "titulo": "Aromas",
+        "imagen": "./Images/sahumerio/aromas2.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "cascada",
+        "titulo": "Cascada",
+        "imagen": "./Images/sahumerio/cascada.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 5600
+    },
+    {
+        "id": "sahumerios",
+        "titulo": "Sahumerios",
+        "imagen": "./Images/sahumerio/sahumerios.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "sahumerios2",
+        "titulo": "Sahumerios",
+        "imagen": "./Images/sahumerio/sahumerios2.jpg",
+        "categoria": {
+            "nombre": "Sahumerio",
+            "id": "sahumerio"
+        },
+        "precio": 800
+    }
+]
