@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --clr-main: #723121;
+    --clr-main: #4b33a8;
+    --clr-main-light: #785ce9;
     --clr-white: #ececec;
+    --clr-gray: #e2e2e2;
+    --clr-red: #961818;
 }
 
 * {
@@ -12,10 +15,10 @@
     font-family: 'Rubik', sans-serif;
 }
 
-/* h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
+h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
     margin: 0;
     padding: 0;
-} */
+}
 
 ul {
     list-style-type: none;
@@ -34,7 +37,7 @@ a {
 aside {
     padding: 2rem;
     padding-right: 0;
-    color: var(--clr-main);
+    color: var(--clr-white);
     position: sticky;
     top: 0;
     height: 100vh;
@@ -112,7 +115,8 @@ aside {
 .numerito {
     background-color: var(--clr-white);
     color: var(--clr-main);
-    padding: .15rem .25rem;    
+    padding: .15rem .25rem;
+    border-radius: .25rem;
 }
 
 .boton-carrito.active .numerito {
@@ -129,6 +133,7 @@ main {
     background-color: var(--clr-white);
     margin: 1rem;
     margin-left: 0;
+    border-radius: 2rem;
     padding: 3rem;
 }
 
